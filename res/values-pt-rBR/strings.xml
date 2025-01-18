@@ -239,7 +239,7 @@
     <string name="Average_Score_">"Pontuação Média:"</string>
     <string name="Times_Played_">"Vezes Jogado:"</string>
     <string name="Longest_Life_">"Vida mais longa:"</string>
-    <string name="Games_Won_">"Jogos Ganhos:"</string>
+    <string name="Games_Won_">"Jogos Vencidos:"</string>
 
     <string name="You_must_wait_until_the_end_of_the_round_">"Você deve esperar até o final da rodada."</string>
     <string name="Dont_show_again">"Não mostrar novamente"</string>
@@ -388,7 +388,7 @@
 
 
     <string name="Season">"Temporada"</string>
-    <string name="The_next_season_begins">"A próxima temporada começará em"</string>
+    <string name="The_next_season_begins">"A próxima temporada iniciará em"</string>
 
     <string name="Current">"Atual"</string>
     <string name="leaves_">"folhas."</string>
@@ -419,7 +419,7 @@
 
     <string name="Remove_Ads">"Remover Anúncios"</string>
     <string name="Reward">"Recompensa"</string>
-    <string name="Please_Wait___">"Por favor, aguarde…"</string>
+    <string name="Please_Wait___">"Por favor, espere.."</string>
     <string name="Purchasing">"Comprando"</string>
 
     <string name="Purchase_Successful_">"Compra bem-sucedida."</string>
